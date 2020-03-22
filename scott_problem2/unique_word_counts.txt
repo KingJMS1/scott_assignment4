@@ -1,0 +1,10 @@
+no: 1
+hi: 2
+ar: 1
+yes: 2
+ho: 2
+hmm: 4
+fae: 1
+ferf: 1
+he: 1
+grg: 1
